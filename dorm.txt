@@ -1,0 +1,22 @@
+BedStatus  Room  FirstName  LastName    Gender   Student ID  Email Address        Contact Number    CheckIn Day (For Visitors Only)
+Occupied    101	 Pappu       Jha         Male     10168315   pappu.jha@usm.edu     (122)957-6121
+Occupied    102  Roshan      Kumar       Male     10168314   roshan.jk@usm.edu     (012)345-6712
+Empty       103
+Occupied    104  Nabina      Devi        Female   10168313   nabina.abc@usm.edu    (741)452-3214 
+Empty       105
+Occupied    106  Bishnu      KJ          Male     10168312   bishnu.kum@usm.edu    (985)345-4532
+Occupied    107  Priya      Nepali      Female    10168311    priya.km@usm.edu      (321)987-4152
+Empty		    108						
+Empty       109
+Occupied	  110	Paul		    Shah		    Male	    11068290	Paul.Shah@usm.edu	      (984)440-7895
+Empty       201
+Empty		    202						
+Empty	      203					   
+Occupied    204  Thalia   Trussell      Female   10168308   thalia.tr@usm.edu     (123)346-6720
+Occupied    205  Paige    Limbert       Female   10168307   paige.wxy@usm.edu     (124)453-3220 
+Empty	      206					   
+Occupied    207  Donald   Trump         Male     10168306   donald.tr@usm.edu     (329)999-4111
+Occupied    208  Joe      Biden         Male     10168305   joe.biden@usm.edu     (989)129-4569
+Occupied	  209	Pearl		String		      Male	   10168272	  Pearl.String@usm.edu	(987)456-1475
+Empty		    210
+Visitor		  208	FriendOf 		Joe		      Male	  10168119		Friend.Joe@usm.edu	   (123)129-7894				    26
