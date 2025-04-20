@@ -42,3 +42,7 @@ This project was developed as a final assignment for my first semester (Fall 202
 ## ⭐ Star This Repo
 
 If you found this useful, please consider starring the repo to support the project!
+
+---
+
+Contributor: [Pappu Jha](https://jhapappu.com.np)
